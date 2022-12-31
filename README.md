@@ -14,3 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+
+#TODO
+- [] Deploy the img2img with mask model to aws and setup autoscale endpoint
+- [] Add text only editing model
